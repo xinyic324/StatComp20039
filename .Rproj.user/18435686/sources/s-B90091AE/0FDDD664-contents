@@ -1,0 +1,16 @@
+Package: StatComp20039
+Type: Package
+Title: Example functions for 'Statistical Computing' course
+Version: 1.0
+Date: 2020-12-12
+Author: xinyi C
+Maintainer: xinyi Cao<xinyicao@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), knitr, rmarkdown,FNN,DT,graphics,MASS,bootstrap,boot,DAAG,RANN,energy,Ball,kedd,qpdf
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+VignetteBuilder: knitr
+Encoding: UTF-8
+URL: https://github.com/xinyic324/StatComp20039.git
+BugReports: http://github.com/xinyic324/StatComp20039/issues
