@@ -1,0 +1,4 @@
+"0","abline(0,k1,col=""red"")"
+"2","Error in int_abline(a = a, b = b, h = h, v = v, untf = untf, ...) : 
+  'a'和'b'的值必需是有限的
+"
